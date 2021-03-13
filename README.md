@@ -8,6 +8,7 @@ Here's some things I'm working on on the side:
 * [AppLocale.dev](https://applocale.dev) - The easiest way to manage translations for your apps
 
 ✨ You can follow me on Twitter [@afomera](https://twitter.com/afomera)
+
 📧 Email me at: afomera@hey.com
 
 <!--
