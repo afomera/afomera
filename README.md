@@ -10,7 +10,7 @@ Here's some things I'm working on on the side:
 
 ✨ You can follow me on Twitter [@afomera](https://twitter.com/afomera)
 
-📧 Email me at: afomera@hey.com
+📧 Email me at: andrea.fomera@gmail.com
 
 <!--
 **afomera/afomera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
