@@ -6,7 +6,6 @@ Here's some things I'm working on on the side:
 * [Learn Hotwire by Building a Forum](https://store.afomera.dev/learn-hotwire) - My second course, this walks you though building a forum with Hotwire! ⚡️
 * [Learn Rails by Building Instagram](https://store.afomera.dev/learn-rails-by-building-instagram) - Get a foundation of Rails, by building a photo sharing application.
 * [Fathom API](https://github.com/afomera/fathom_api) - A ruby library for the https://usefathom.com API.
-* [AppLocale.dev](https://applocale.dev) - The easiest way to manage translations for your apps
 
 ✨ You can follow me on Twitter [@afomera](https://twitter.com/afomera)
 
