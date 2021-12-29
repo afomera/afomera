@@ -2,7 +2,7 @@
 
 **Pronouns:** she/her/hers
 
-Checkout my [website](https://afomera.dev) if you want to see my blog, speaking events I've done and more!. 
+Checkout my [website](https://afomera.dev) if you want to see my blog, speaking events I've done and more!
 
 Here's some things I'm working on on the side:
 * [Learn Hotwire by Building a Forum](https://store.afomera.dev/learn-hotwire) - My second course, this walks you though building a forum with Hotwire! ⚡️
