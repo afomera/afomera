@@ -5,6 +5,8 @@
 Checkout my [website](https://afomera.dev) if you want to see my blog, speaking events I've done and more!
 
 Here's some things I'm working on on the side:
+* [RicherText.js](https://github.com/afomera/richer-text.js) - A React project building the front-end Text Editor using TipTap.dev and Prosemirror
+* [RicherText](https://github.com/afomera/richer_text) - A Rails library integrating RicherText.js into Rails, similar to ActionText.
 * [Learn Hotwire by Building a Forum](https://store.afomera.dev/learn-hotwire) - My second course, this walks you though building a forum with Hotwire! ⚡️
 * [Learn Rails by Building Instagram](https://store.afomera.dev/learn-rails-by-building-instagram) - Get a foundation of Rails, by building a photo sharing application.
 * [Fathom API](https://github.com/afomera/fathom_api) - A ruby library for the https://usefathom.com API.
